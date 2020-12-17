@@ -1,1 +1,2 @@
-# Container_Management_System
+# 智能货柜管理系统
+# 基与C语言连接mysql与QT结合的项目
